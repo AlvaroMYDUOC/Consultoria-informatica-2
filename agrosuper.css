@@ -1,0 +1,172 @@
+.icon-chevron-small-up {
+    display: none;
+    padding: 1.04vw;
+    background: #00000096;
+    font-size: 2.5vw;
+    color: #ffffff;
+    cursor: pointer;
+    position: fixed;
+    bottom: 1.04vw;
+    right: 1.04vw;
+    border-radius: 1.04vw;
+}
+
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+#LOGO {
+    float: left;
+    margin-bottom: 3vw;
+}
+
+#LOGO2 {
+    float: left;
+    margin-bottom: 10vw;
+    margin-left: 7vw;
+}
+
+#LOGO3 {
+    float: left;
+    margin-bottom: 10vw;
+    margin-left: 7vw;
+}
+
+#parrafo1 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+    text-align: center;
+}
+
+#parrafo2 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+    text-align: center;
+}
+
+#parrafo3 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    padding: 20px;
+    background: #000000;
+    margin: auto;
+    font-size: 15PX;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background: #f1ca1b;
+}
+
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+#LOGO {
+    float: left;
+    margin-bottom: 3vw;
+}
+
+#LOGO2 {
+    float: left;
+    margin-bottom: 10vw;
+    margin-left: 7vw;
+}
+
+#LOGO3 {
+    float: left;
+    margin-bottom: 10vw;
+    margin-left: 7vw;
+}
+
+#parrafo1 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+    text-align: center;
+}
+
+#parrafo2 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+    text-align: center;
+}
+
+#parrafo3 {
+    margin-left: 230px;
+}
+
+#LOGO2 {
+    float: right;
+    margin-left: 300px;
+}
+
+#parrafo1 {
+    color: #f3db00;
+    width: 700px;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 55px;
+    float: right;
+}
+
+.menu {
+    list-style: none;
+    padding: 20px;
+    background: #000000;
+    margin: auto;
+    font-size: 15PX;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background: #f1ca1b;
+}
